@@ -1,0 +1,14 @@
+.inline-edit {
+    display: flex;
+    .edit-action {
+        color: blue;
+        cursor: pointer;
+        display: none;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    &:hover .edit-action {
+        display: block;
+    }
+}

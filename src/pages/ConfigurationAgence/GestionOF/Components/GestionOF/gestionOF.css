@@ -1,0 +1,12 @@
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 0px solid #dee2e6;
+    color: white;
+}
+h2,h3 {
+    color: white;
+
+}
+em {
+    color: rgb(202, 149, 149);
+}

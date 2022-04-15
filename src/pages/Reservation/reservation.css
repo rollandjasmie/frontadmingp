@@ -1,0 +1,31 @@
+.Titre-reservation{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.part-date{
+    color: black;
+    font-weight: 900;
+    padding: 0 12px;
+}
+.input-desc{
+    border: 1px solid gray;
+}
+#bouton{
+    padding: 0 10px !important;
+}
+.bouton{
+    padding: 0 10px !important;
+}
+.teble-title{
+    background: blue;
+    color: white;
+}
+.bouton-cur{
+    background: red;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+}

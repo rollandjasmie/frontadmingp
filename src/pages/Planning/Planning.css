@@ -1,0 +1,57 @@
+img {
+  border-radius: 5px;
+  background-color: #73879C;
+  width: 85px;
+  height: 80px;
+}
+.planning {
+  border-radius: 5px;
+  background-color: #73879C;
+  width: 150px;
+  height: 80px;
+  position: relative;
+  top: 128px;
+  z-index: 100;
+}
+.textes {
+  position: relative;
+  top: 120px;
+  left: 70px;
+  z-index: 100;
+  color: red;
+}
+.category{
+  text-align: center;
+  width: 100%;
+
+}
+/* .e-schedule .e-timeline-view .e-appointment, .e-schedule .e-timeline-month-view .e-appointment{
+  height: 10px;
+} */
+.boxdevis {
+  width: 50px;
+  background-color: #ff00ff;
+}
+.boxdevispartiel {
+  width: 50px;
+  background-color: #b3b300;
+}
+.boxdevistotal {
+  width: 50px;
+  background-color: #3daf04;
+}
+.boxpaye {
+  width: 50px;
+  background-color: #008000;
+}
+.boxpartiel {
+  width: 50px;
+  background-color: #ace600;
+}
+/* td .e-work-cells.e-child-node {
+  width: 10px !important
+}
+td .e-header-cells.e-date-header{
+  width: 10px !important
+
+} */

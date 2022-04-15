@@ -1,0 +1,27 @@
+.user-profil {
+    position: relative;
+
+
+    .user-action {
+        transform: scale(0);
+        position: absolute;
+        top: calc(100% + 7px);
+        right: 0;
+        background-color: black;
+        white-space: nowrap;
+        padding: 15px 25px;
+        border: 2px solid white;
+
+        &.show {
+            transform: scale(1);
+        }
+
+        .action-item {
+            cursor: pointer;
+            
+            &:hover {
+                opacity: .75
+            }
+        }
+    }
+}

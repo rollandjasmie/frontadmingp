@@ -1,0 +1,150 @@
+.aloka{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;}
+
+.no--top{
+    margin-top: 0 !important;
+}
+.container--mini{
+    margin: 4vw 5vw;
+    padding: 1vw 1vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.main-container{
+    overflow: hidden;
+}
+.container-devi2{
+    
+    padding: 2vw 2vw;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;}
+.container-devi3{
+        margin-top:3vw;
+        padding: 1vw 1vw;
+        box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;}
+
+
+.container-devi{
+    margin: 5vw 5vw;
+    padding: 2vw 2vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+.titre--perso{
+    margin-bottom: 6vw;
+    color:rgb(206, 206, 206);
+}
+.input--perso{
+    border-radius: 5vw;
+    height: 2vw;
+    text-align: center;
+    
+}
+.container--form{
+    width: 50%;
+}
+.nextPrev{
+   font-size:1.5vw;
+    height: 3vw;
+    color:rgb(206, 206, 206);
+}
+.image--perso{
+    background: none;
+    width: 225px;
+    height: 170px;
+    transition: 2s;
+}
+.image--perso2{
+    background: none;
+}
+.text--perso{
+    font-size: 1.5vw;
+    color: #fff;
+}
+.place--perso{
+    color:rgb(135, 135, 135) !important;
+}
+.fa-chevron-left:hover ,.fa-chevron-right:hover{
+    text-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    color: rgba(0, 100, 208, 0.768);
+
+}
+.border--perso{
+    border-radius: 50px ;
+}
+.button--perso{
+    width: 50vw !important;
+    height: 5vw !important;
+    font-size: 2vw  !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info--perso{
+    font-size : 1.5vw !important;
+}
+.quitter {
+    color: red;
+    position: relative;
+    bottom: 30px;
+    left: 11px;
+    float: right; 
+}
+
+.head--perso{
+    background:#001d3d;
+    color: #999;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.titre--perso2{
+    font-size: 1vw !important;
+}
+.mod--perso{
+    height: 600px;
+}
+.border--perso2{
+    border-left: 1px solid rgb(213, 208, 208);
+    
+}
+.resultDevis{
+    overflow-y: scroll;
+    max-height: 500px;
+}
+.paper--perso{
+    width: 595px;
+    height: 842px;
+    background-color: white;
+    overflow: hidden;
+}
+.lohany{
+    height:100px !important;
+    padding: 2rem;
+    background-color: #C4C4C4;
+}
+.tongony{
+    height:100px !important;
+    padding: 1rem;
+    background-color: #C4C4C4;
+}
+.list--head{
+    font-size: 0.7vw;
+    color: #333;
+}
+.paper--text{
+    color:#A39C9C;
+    font-family: 'Roboto', sans-serif !important;
+}
+.tongony--titra{
+    color:#228DCB;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+.text--foot{
+    color: #333;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 1.3vw;
+
+}
+.lien{
+    text-decoration:underline ;
+}
+.lien:hover{
+    
+    color:#228DCB;
+
+}

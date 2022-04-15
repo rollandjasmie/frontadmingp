@@ -1,0 +1,66 @@
+.dash_panel {
+    position: relative;
+    
+    margin-bottom: 10px;
+    padding: 10px 17px;
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #E6E9ED;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+    opacity: 1;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.content-gneral{
+    padding-top: 20px;
+}
+.diagram{
+    width:100px;
+}
+.circle_diagram{
+    padding: 100px;
+    top: 30px;
+    left: 7px;
+    overflow: hidden;
+    width: 98%;
+}
+
+.daty{
+    margin-bottom: 15px;
+    width:50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.flesy{
+    font-size: 20px; 
+}
+.cont-flesy ,.volana ,.taona{
+    
+    padding: 14px;  
+}
+.volana ,.taona{
+    font-size: 15px;
+}
+
+.volana:hover, .taona:hover, .cont-flesy:hover{
+    background-color:#161b36;
+}
+
+.onglet {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.diagrame-line{
+    box-shadow: rgba(0, 0, 0, 0.289) 0px 0px 0px 3px;
+}
+.onglet_chifre{
+    font-size: 2vw;
+    color: rgb(255, 255, 255);
+}
+.onglet_title{
+    font-size:1.5vw;
+}
+.ganal{
+    color: rgba(255, 255, 255, 0.734);
+}
